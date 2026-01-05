@@ -6,4 +6,3 @@ Toegevoegde lijn
 
 Illustratie pull
 
-Lijn toegevoegd.
